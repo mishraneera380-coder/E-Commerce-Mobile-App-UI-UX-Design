@@ -24,7 +24,7 @@ The goal is to provide a smooth shopping experience with clear navigation, intui
 ---
 
 ##  Demo & Screenshots
-- **Video Walkthrough:** [https://drive.google.com/file/d/1PLRJxSNSpSQAH7Ay5RULW11fJ_ddn0sb/view?usp=sharing](#)  
+- **Video Walkthrough:** [ https://drive.google.com/file/d/1PLRJxSNSpSQAH7Ay5RULW11fJ_ddn0sb/view?usp=sharing ] 
 - **Screenshots:**  
   - ![Login](login.png)  
   - ![Dashboard](dashboard.png)
