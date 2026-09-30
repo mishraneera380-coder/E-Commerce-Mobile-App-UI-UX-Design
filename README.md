@@ -26,8 +26,10 @@ The goal is to provide a smooth shopping experience with clear navigation, intui
 ##  Demo & Screenshots
 - **Video Walkthrough:** [Link to demo video](#)  
 - **Screenshots:**  
-  - ![Wireframing](screenshots/login.png)  
-  - ![Final Design](screenshots/dashboard.png)    
+  - ![Login](login.png)  
+  - ![Dashboard](dashboard.png)
+  - ![Cart](cart.png)  
+  - ![Order](order.png)      
 
 ---
 
